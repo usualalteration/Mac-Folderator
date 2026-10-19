@@ -194,15 +194,7 @@ mac-folderator/
 
 Mac Folderator is free and open source. If it saves you time and you want to say thanks, you can buy me a coffee:
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('usualalteration', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00bfa5',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D6B7293SIZ)
 
 Starring the repository and sharing it helps just as much. ⭐
 

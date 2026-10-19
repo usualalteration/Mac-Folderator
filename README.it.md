@@ -108,17 +108,9 @@ Vengono rimossi azione rapida, impostazioni e tutte le copie installate dell'app
 
 ## Sostieni il progetto
 
-Mac Folderator è gratuito e open source. Se ti piace e vuoi dire grazie, puoi offrirmi un caffè:
+Mac Folderator è gratuito e open source. Se ti piace e vuoi dirmi grazie, puoi offrirmi un caffè:
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('usualalteration', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00bfa5',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D6B7293SIZ)
 
 Anche una stella al repository e una condivisione aiutano. ⭐
 

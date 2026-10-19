@@ -5,7 +5,7 @@
 <p align="center">
   <a href="../../releases/latest"><b>⬇️ Scarica l'ultima versione (.dmg)</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://ko-fi.com/your-ko-fi-username"><b>☕ Sostieni il progetto</b></a>
+  <a href="https://ko-fi.com/usualalteration"><b>☕ Sostieni il progetto</b></a>
 </p>
 
 # Mac Folderator

@@ -102,4 +102,4 @@ Vengono rimossi azione rapida, impostazioni e tutte le copie installate dell'app
 
 ## Licenza
 
-[MIT](LICENSE)
+[GPLv3](LICENSE)

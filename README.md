@@ -186,4 +186,4 @@ mac-folderator/
 
 ## License
 
-[MIT](LICENSE)
+[GPLv3](LICENSE)

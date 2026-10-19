@@ -103,6 +103,8 @@ ln -s /Applications "$STAGE/Applications"
 
 hdiutil create -volname "$NAME" -srcfolder "$STAGE" -ov -format UDZO "$DIST/$NAME.dmg" >/dev/null || die "hdiutil failed"
 rm -rf "$STAGE"
+cp "$DIST/$NAME.dmg" "$DIST/Mac-Folderator-$VERSION.dmg"
 say "Done: $DIST/$NAME.dmg   (version $VERSION, build $BUILD)"
+say "For GitHub Releases upload: $DIST/Mac-Folderator-$VERSION.dmg"
 echo
 echo "Install: open the .dmg and drag \"$NAME\" to Applications."

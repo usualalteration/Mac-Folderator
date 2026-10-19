@@ -7,6 +7,12 @@
   &nbsp;·&nbsp; <a href="README.it.md">🇮🇹 Italiano</a>
 </p>
 
+<p align="center">
+  <a href="../../releases/latest"><b>⬇️ Download the latest version (.dmg)</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://ko-fi.com/your-ko-fi-username"><b>☕ Support the project</b></a>
+</p>
+
 # Mac Folderator
 
 **Give your Mac's folders the color (and the icon) you want.**
@@ -78,7 +84,7 @@ Requires macOS 12 or later (Apple silicon and Intel). No administrator password 
 
 ### Option A — the disk image
 
-1. Download **Mac Folderator.dmg** from the [Releases](../../releases) page (or build it yourself, see below) and open it.
+1. Download the **.dmg** from the [latest release](../../releases/latest) (under *Assets*; or build it yourself, see below) and open it.
 2. **Double-click Mac Folderator** in the window that appears. It installs itself: it copies itself into **Applications**, opens from there and ejects the disk. (Or drag it onto the **Applications** folder yourself, eject the disk and open it from Applications.)
 3. If macOS says it cannot be opened (the app is ad-hoc signed, not notarized): right-click it → **Open** → **Open**.
 
@@ -184,6 +190,14 @@ mac-folderator/
 - The app is ad-hoc signed, not notarized. If you share the `.dmg`, the first launch on another Mac needs right-click → Open.
 - Tested on macOS.
 
+## Support
+
+Mac Folderator is free and open source. If it saves you time and you want to say thanks, you can buy me a coffee:
+
+<p align="center"><a href="https://ko-fi.com/your-ko-fi-username"><img alt="Support me on Ko-fi" src="https://img.shields.io/badge/Ko--fi-Support%20the%20project-FF5E5B?logo=ko-fi&logoColor=white"></a></p>
+
+Starring the repository and sharing it helps just as much. ⭐
+
 ## License
 
-[GPLv3](LICENSE)
+[MIT](LICENSE)

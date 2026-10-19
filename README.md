@@ -192,7 +192,7 @@ mac-folderator/
 
 ## Support
 
-Mac Folderator is free and open source. If it saves you time and you want to say thanks, you can buy me a coffee:
+Mac Folderator is free and open source. If you like it, and you want to say thanks, you can buy me a coffee:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D6B7293SIZ)
 
